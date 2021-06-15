@@ -1,4 +1,4 @@
-# springWithKotlinTutorial
+# Spring Tutorial with Kotlin
 
 SpringBoot tutorial made by thenewboston youtube channel
 
