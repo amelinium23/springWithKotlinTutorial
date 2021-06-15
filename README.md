@@ -1,6 +1,6 @@
 # Spring Tutorial with Kotlin
 
-SpringBoot tutorial made by thenewboston youtube channel
+SpringBoot tutorial made by thenewboston youtube channel.
 
 
 ## Links
